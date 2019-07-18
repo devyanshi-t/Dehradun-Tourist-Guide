@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+        <item android:id="@+id/placesguide"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="Places"/>
+        <item android:id="@+id/restaurantguide"
+            android:src="@drawable/food"
+            android:title="Restaurants"/>
+        <item android:id="@+id/marketguide"
+            android:src="@drawable/market"
+            android:title="Market"/>
+    <item android:id="@+id/otherguide"
+        android:src="@drawable/other"
+        android:title="Other Places"/>
+
+    </menu>

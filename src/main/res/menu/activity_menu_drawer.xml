@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="none">
+        <item
+            android:id="@+id/placesguide"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="Places"
+            android:visible="true" />
+        <item
+            android:id="@+id/restaurantguide"
+            android:icon="@drawable/food"
+            android:title="Restaurant"
+            android:visible="true" />
+        <item
+            android:id="@+id/marketguide"
+            android:icon="@drawable/market"
+            android:title="Market"
+            android:visible="true" />
+        <item
+            android:id="@+id/otherguide"
+            android:icon="@drawable/other"
+            android:title="Other attractions"
+            android:visible="true" />
+    </group>
+
+
+
+</menu>

@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">TourGuide</string>
+    <string name="title_activity_menu">Menu</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="Open">Open</string>
+    <string name="Close">Close</string>
+    <string name="tiitle">Dehradun -City Of Love</string>
+    <string name="place_buddha_temple">BUDDHA TEMPLE</string>
+    <string name="place_buddha_des">Famous for extravagant Buddhist structure and holy school of Tibetan religion,\n Buddha Temple is the most visited place in Dehradun city.\n Located at Clement Town, Buddha Temple is center of attraction for many International tourists and Budhhist followers.</string>
+    <string name="place_buddha_address">Clement Town ,Near G.M.S Road</string>
+    <string name="place_buddha_time">6 am-6 pm</string>
+    <string name="place_tapesk">TAPKESHWAR TEMPLE</string>
+    <string name="place_tapesk_des">Tapkeshwar is a famous holy temple of Lord Shiva on the bank of seasonal Asan river near Dehradun.\n Known to have one of the oldest Shivling in the cave, Tapkeshwar Mahadev Temple is located at 6.5 km from Dehradun city. \n As water droplets continuously drops on the shivling, hence it was named as Tapkeshwar.</string>
+    <string name="place_tapesk_address">Tapkeshwar Colony,Near Garhi Cantt</string>
+    <string name="place_tapeshk_time">4 am-6 pm</string>
+    <string name="place_shastra">Sahasradhara</string>
+    <string name="place_shastra_des"> Sahastradhara literally means thousand-fold spring.\n It is a popular attraction, famous for its ecstatic beauty and therapeutic value since its water contains Sulphur. \nWhile the place can be visited any time during the year, you would love the charming beauty of the waterfall during the rainy season when the stream proposes the appearance of a gushing torrent. \n Sahastradhara is one of the most popular tourist destinations in Uttarakhand</string>
+    <string name="place_shastra_address"> Sahasradhara Road ,14 Street</string>
+    <string name="place_shastra_time">8 am-7 pm</string>
+    <string name="place_fri">Forest Research Institute</string>
+    <string name="place_fri_des"> The Forest Research Institute (FRI) वन अनुसन्धान संस्थान is an institute of the Indian Council of Forestry Research and Education and is a premier institution in the field of forestry research in India.\n  It is located at Dehradun in Uttarakhand, and is one of the oldest institutions of its kind.\n In 1991, it was declared a deemed university by the University Grants Commission.</string>
+    <string name="place_fri_address"> New Forest</string>
+    <string name="place_fri_time">9 am-5:30 pm</string>
+    <string name="market_paltan">PALTAN BAZAAR</string>
+    <string name="market_paltan_des">Paltan Bazar is renowned for being the hub of basmati rice, which is also the city’s pride.\n People come here to buy basmati rice in bulk. Besides, this shopping paradise also sells clothes, shoes and bags. Shoppers can also pick various kinds of spices here along with several other food items.\n The market remains open every day of the week and is a must visit in Dehradun.</string>
+    <string name="market_paltan_addr">Paltan Bazaar, Clock Tower</string>
+    <string name="market_paltan_time">8 am- 9 pm</string>
+    <string name="market_pacific">PACIFIC MALL</string>
+    <string name="market_pacific_des"> Pacific Mall is redefining the paradigm of shopping experience in the city. \n With some of the most aspired lifestyle brands, a massive food-court – Salt, offering delectable range of cuisines, five screen PVR multiplex, expansive  play zone and so much more, the mall urges its patrons to make more time for happiness.</string>
+    <string name="market_pacific_addr">Jhakhan ,Rajpur Road</string>
+    <string name="market_pacific_time">9 am-9 pm</string>
+    <string name="market_crossroad">CROSSROAD MALL</string>
+    <string name="market_crossroad_des">A beautiful and resonable option for all shopaholics.</string>
+    <string name="market_crossroad_addr">1, Old Survey Road</string>
+    <string name="market_croosroad_time">9 am-9 pm</string>
+    <string name="res_towntable">TOWN TABLE</string>
+    <string name="res_towntable_des">A perfect place for a family gathering offering Indian ,Chinese and Italian Cuisine</string>
+    <string name="res_towntable_addr"> 2nd Floor, 101, Rajpur Rd</string>
+    <string name="res_towntable_time">12 am- 12 pm</string>
+    <string name="res_piccolo">CAFE DE PICCOLO</string>
+    <string name="res_piccolo_des">Café de Piccolo offers everything from excellent Italian food, great coffee to amazing view and one of its kind décor.</string>
+    <string name="res_piccolo_addr">80, Rajpur Rd</string>
+    <string name="res_piccolo_time">10:30 pm-8:30 pm</string>
+    <string name="res_mira">MIRABILIA </string>
+    <string name="res_mira_des">An idiosyncratic place to dine and wine, Mirabilia located in the midst of the sultry Doon Valley will make your dining experience fanatical. </string>
+    <string name="res_mira_addr">46, Eastern Canal Rd</string>
+    <string name="res_mira_time">12 pm-12 am</string>
+    <string name="res_bbqnation">BARBEQUE NATION</string>
+    <string name="res_bbq_des">Pioneers of Live Grill Concept in India. A place known for any celebrations.\n  Best Barbecues/kebabs and Starters. Unlimited Food including Starters, Main Course, Desserts, Kulfi.</string>
+    <string name="res_bbq_addr"> 1st Floor Chaudhary Plaza, Rajpur Rd</string>
+    <string name="res_bbq_time">10:00 am- 12 pm</string>
+    <string name="other_bookstore">Natraj Bookstore</string>
+    <string name="other_bookstore_des">Your onestop for the latest and vintage books and a chance to meet Mr.Ruskin Bond </string>
+    <string name="other_bookstore_addr">1,Astely Hall</string>
+    <string name="other_bookstore_time">11 am- 7 pm</string>
+    <string name="other_Laser">Laser Wars</string>
+    <string name="other_laser_des">Awaken the Warrior in you and win the arena to be declared king.</string>
+    <string name="other_laser_addr">10,Rajpur road</string>
+    <string name="other_laser_time">11 am- 8 pm</string>
+    <string name="other_petal">Petal Art Gallley</string>
+    <string name="other_petal_des">Beautiful and bursting with colors ,this place is adream come true for every art lover.</string>
+    <string name="other_petal_addr"> 1,New Enclave</string>
+    <string name="other_petal_time">1 pm- 7 pm</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
