@@ -1,7 +1,7 @@
 
 #  Dehradun Tourist  Guide Application
 
-This android application lets a user dicover the beautiful city of DehraDun
+This android application lets a user dicover the beautiful city of DehraDun and lets you explore all the beautiful places of the city.
 
 
 <p align="center">
